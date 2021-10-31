@@ -10,6 +10,6 @@
 
 - [Google's What-If-Tool](https://pair-code.github.io/what-if-tool/): _Using WIT, you can test performance in hypothetical situations, analyze the importance of different data features, and visualize model behavior across multiple models and subsets of input data, and for different ML fairness metrics._
 
-- [Georgia Institute of Technology _CS 6603: AI, Ethics, and Society](https://omscs.gatech.edu/cs-8803-o10-ai-ethics-and-society)
+- [Georgia Institute of Technology's CS 6603](https://omscs.gatech.edu/cs-8803-o10-ai-ethics-and-society): _AI, Ethics, and Society_.
 
 - [Algorithmic Fairness & Opacity Lecture Series](https://www.ischool.berkeley.edu/events/algorithmic-fairness)
