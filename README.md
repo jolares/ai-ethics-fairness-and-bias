@@ -1,10 +1,10 @@
-# Example AI Ethics Fairness Practices
+# **Example AI Ethics Fairness Practices**
 
 
 > TODO: Link to Blog Post Workshop
 
 
-## References
+## **References**
 
 - IBM's [AI Fairness 360](https://aif360.mybluemix.net/): _This extensible open source toolkit can help you examine, report, and mitigate discrimination and bias in machine learning models throughout the AI application lifecycle._
 
